@@ -9,13 +9,13 @@ googleAnalytics = ""
 
 [params]
 	# General information
-	author = "Digitalcraftsman"
+	author = "dreamer9"
 	description = "A material design theme for documentations."
 	copyright = "Released under the MIT license"
 
 	# Repository
 	provider = "GitHub"
-	repo_url = "https://github.com/digitalcraftsman/hugo-material-docs"
+	repo_url = "https://github.com/dreamerr/dreamerr.github.io"
 
 	version = "1.0.0"
 	logo = "images/logo.png"
@@ -41,8 +41,8 @@ googleAnalytics = ""
 
 [social]
 	twitter = ""
-	github  = "digitalcraftsman"
-	email   = "hello@email.com"
+	github  = "dreamerr"
+	email   = "zaicev1989@gmail.com"
 
 
 [[menu.main]]
