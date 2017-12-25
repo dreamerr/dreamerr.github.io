@@ -13,6 +13,17 @@
     
     <item>
       <title></title>
+      <link>http://blog.dreamer9.ru/post/first-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.dreamer9.ru/post/first-post/</guid>
+      <description>categories = [ &amp;ldquo;TEST&amp;rdquo;,
+] title: &amp;ldquo;First Post&amp;rdquo; date: 2017-12-25T16:19:21+03:00
+draft: true TEST</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://blog.dreamer9.ru/post/my-new-post1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
