@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "http://blog.dreamer9.ru/"
-url: "https://sylhare.github.io"
+url: "http://blog.dreamer9.ru/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
